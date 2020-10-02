@@ -9,5 +9,5 @@
 </p>
 
 <h1 align="center">
-  <img alt="Layout" src="https://media0.giphy.com/media/635xHsPjIPrntfzZOM/giphy.gif">
+  <img width="400" alt="Layout" src="https://media0.giphy.com/media/635xHsPjIPrntfzZOM/giphy.gif">
 </h1>
