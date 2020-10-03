@@ -21,7 +21,6 @@ GitHub explore application, wich can storage repositories of your portfolio. Abl
 
 Project developed as a challenge during the GoStack bootcamp by [Rocketseat](https://rocketseat.com.br/).
 
-<br/>
 ---
 <br/>
 
@@ -31,7 +30,6 @@ Project developed as a challenge during the GoStack bootcamp by [Rocketseat](htt
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-<br/>
 ---
 <br/>
 
