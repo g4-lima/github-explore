@@ -12,3 +12,52 @@
 <h1 align="center">
   <img width="700" alt="Layout" src="https://media0.giphy.com/media/635xHsPjIPrntfzZOM/giphy.gif">
 </h1>
+
+## About project
+
+GitHub explore application, wich can storage repositories of your portfolio. Able to list, update, and delete repositories, and besides that, the repositories can also receive likes.
+
+Project developed as a challenge during the GoStack bootcamp by [Rocketseat](https://rocketseat.com.br/).
+
+## Technologies
+
+- [Node.js](http://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+---
+
+## Getting started
+
+
+### Requirements
+
+- [Node.js](http://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/)
+
+**Install dependencies**
+
+```sh
+$ yarn
+```
+
+---
+
+
+### Backend
+
+```sh
+$ yarn dev:server
+Run api service
+```
+
+---
+
+
+### Web
+
+```sh
+$ yarn start
+Start client, be sure if server (backend) is running
+
+```
